@@ -220,8 +220,7 @@ vehicle-price-prediction-azure-ml/
 │   ├── evaluate-model-output.png
 │   └── car_price_predictor_ui.png
 │
-├── README.md
-└── .gitignore
+└── README.md
 ```
 
 ---
